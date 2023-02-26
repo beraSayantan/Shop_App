@@ -29,7 +29,7 @@ class ProductDetailScreen extends StatelessWidget {
             Text(
               'Rs. ${loadedProduct.price}',
               style: TextStyle(
-                color: Colors.grey,
+                color: Colors.blue,
                 fontSize: 20,
               ),
             ),
